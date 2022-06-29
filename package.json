@@ -1,7 +1,7 @@
 {
   "name": "manktest",
   "description": "Common react web components and wrappers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.esm.js",
   "module": "lib/index.esm.js",
   "source": "src/index.js",
@@ -92,6 +92,7 @@
   "keywords": [],
   "author": "Man K",
   "license": "UNLICENSED",
+  "homepage": "https://github.com/manjunathgk22/testpackage",
   "files": [
     "lib"
   ]
