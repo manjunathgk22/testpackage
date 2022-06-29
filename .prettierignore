@@ -1,0 +1,6 @@
+.idea
+.eslintcache
+coverage
+lib
+node_modules
+storybook-static
