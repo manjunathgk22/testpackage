@@ -45,10 +45,14 @@ export default [
 
       // Convert CommonJS modules into ES modules.
       commonjs(),
+      
 
       postcss({
         extensions: ['.css'],
         plugins: [postcssPresetEnv()],
+        inject: {
+          insertAt: 'top' 
+        }
       }),
     ],
     output: [{ file: packageJson.module, format: 'es' }],

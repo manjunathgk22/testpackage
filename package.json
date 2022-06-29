@@ -1,7 +1,7 @@
 {
   "name": "manktest",
   "description": "Common react web components and wrappers",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "main": "lib/index.esm.js",
   "module": "lib/index.esm.js",
   "source": "src/index.js",
